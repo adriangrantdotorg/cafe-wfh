@@ -70,8 +70,13 @@ app.on('ready', function() {
   });
 
   const {Menu, MenuItem} = require('electron');
+  const { shell } = require('electron')
+
   var menu = new Menu();
 
+  menu.append(new MenuItem({ label: 'About', click: () => shell.openExternal('https://example.com/') }));
+  menu.append(new MenuItem({ label: 'Help', click: () => shell.openExternal('https://example.com/') }));
+  menu.append(new MenuItem({type: 'separator'}))
   menu.append(new MenuItem({ label: 'Quit', click: () => app.quit() }));
 
   var ipcMain = require('electron').ipcMain;

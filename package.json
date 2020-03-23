@@ -1,18 +1,18 @@
 {
-  "name": "electron-menubar",
+  "name": "wfh-buddies",
   "version": "1.0.0",
-  "description": "Sample menubar app that shows popover for macOS",
+  "description": "Smooth Hip Hop beats mixed with cafe sounds",
   "main": "main.js",
   "scripts": {
     "start": "electron ."
   },
-  "repository": "https://github.com/sozercan/electron-menubar",
+  "repository": "https://github.com/adriangrantdotorg/wfh-buddies-cafe",
   "keywords": [
     "menubar",
     "macOS",
     "OS X"
   ],
-  "author": "Sertac Ozercan",
+  "author": "Adrian Grant",
   "license": "MIT",
   "devDependencies": {
     "electron": "^1.4.4"

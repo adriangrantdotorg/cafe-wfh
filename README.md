@@ -1,3 +1,4 @@
-# electron-menubar
+# WFH Buddies
 
-<img src="http://i.imgur.com/SOSXRn5.png" width="300">
+### Credits
+https://github.com/sozercan/electron-menubar

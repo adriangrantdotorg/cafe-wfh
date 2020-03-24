@@ -36,8 +36,11 @@ app.on('ready', function() {
   window.on('blur', function(){
     window.hide();
   });
+  
+  // NAGA Shows Dev Tools 
+  window.webContents.openDevTools()
 
-  const iconName = 'images/icon.png';
+  const iconName = 'assets/img/icon.png';
   const iconPath = path.join(__dirname, iconName);
 
   trayIcon = new Tray(iconPath);

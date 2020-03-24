@@ -2,20 +2,43 @@
 <html>
     <head>
         <meta charset="UTF-8"/>
-        <link rel="stylesheet" type="text/css" href="index.css">
-        <title>Hello World</title>
+        <link rel="stylesheet" type="text/css" href="assets/css/index.css">
+        <link rel="stylesheet" type="text/css" href="assets/css/custom.css">
+        <title>Cafe Sounds</title>
+        <script type="text/javascript" src="assets/js/jQuery.min.js" onload="window.$ = window.jQuery = module.exports;"></script>
     </head>
     <body>
         <div class="container">
             <div class="popover">
                     <div class="header">
-                        <h1>NAGA</h1>
+                        <h1>Cafe Sounds</h1>
+                    </div>
+                    <div class="naga-player-controls">
+                        <a class="playSound" href="#">Play</a>
+                        <p></p>
+                        <a class="pauseSound" href="#">Pause</a>
+
+                        <div class="slidecontainer">
+                          <input type="range" min="0" max="100" value="0" class="slider" id="myRange">
+                        </div>
+                        <figure>
+                          <audio class="audioPlayer" controls src="">
+                          </audio>
+                        </figure>
                     </div>
                     <div class="menu">
                         <a class="config" href="#" onclick="return config();">&nbsp;</a>
                     </div>
             </div>
         </div>
+        <!--=============================================>>>>>
+        = Music Scripts =
+        ===============================================>>>>-->
+            <script src='assets/js/howler.min.js'></script>
+            <script src="assets/js/music.js"></script>
+      <!--=============================================>>>>>
+      = Music Scripts end =
+      ===============================================>>>>-->
     </body>
     <script>
         function config() {
@@ -23,4 +46,5 @@
             ipcRenderer.send('show-config-menu');
         }
     </script>
+
 </html>

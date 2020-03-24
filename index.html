@@ -6,6 +6,7 @@
         <link rel="stylesheet" type="text/css" href="assets/css/custom.css">
         <title>Cafe Sounds</title>
         <script type="text/javascript" src="assets/js/jQuery.min.js" onload="window.$ = window.jQuery = module.exports;"></script>
+        <link href="https://fonts.googleapis.com/css?family=Nunito+Sans&display=swap" rel="stylesheet">
     </head>
     <body>
         <div class="container">
@@ -14,12 +15,19 @@
                         <h1>Cafe Sounds</h1>
                     </div>
                     <div class="naga-player-controls">
-                        <a class="playSound" href="#">Play</a>
-                        <p></p>
-                        <a class="pauseSound" href="#">Pause</a>
+                      
+                      
+                      <a class="playSound button no-decoration" href="#">Play &#x25b6;</a> 
+                      <a class="pauseSound button-pause no-decoration" href="#">Pause &#x2016;</a> 
 
+          
                         <div class="slidecontainer">
-                          <input type="range" min="0" max="100" value="0" class="slider" id="myRange">
+                          <br />
+                          Mix
+                          <br />
+                          <input type="range" min="0" max="100" value="50" class="slider range" id="myRange">
+                          
+                  
                         </div>
                         <figure>
                           <audio class="audioPlayer" controls src="">

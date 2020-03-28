@@ -59,7 +59,7 @@ h1 {
 .popover:before {
     border-left: solid transparent 10px;
     border-right: solid transparent 10px;
-    border-bottom: solid #b1b1b1 10px;
+    border-bottom: solid #ffa364 10px;
     top: -10px;
     content: " ";
     height: 0;
@@ -72,7 +72,7 @@ h1 {
 .popover:after {
     border-left: solid transparent 10px;
     border-right: solid transparent 10px;
-    border-bottom: solid #fff 10px;
+    /* border-bottom: solid #fff 10px; */
     top: -9px;
     content: " ";
     height: 0;
@@ -85,9 +85,9 @@ h1 {
 .menu {
     position: absolute;
     bottom: 0;
-    height: 36px;
+    height: 34px;
     width: 100%;
-    margin-left: -10px;
+    margin-left: -15px;
     border-bottom-right-radius: 5px;
     border-bottom-left-radius: 5px;
     border-top: 1px solid #bbbbbb;
@@ -96,15 +96,15 @@ h1 {
 }
 
 .menu .config {
-    background: transparent url(../img/cog.png) right center no-repeat;
+    background: transparent url(../img/cog-18.png) right center no-repeat;
     display: inline-block;
     height: 36px;
     width: 36px;
-    margin-right: 10px;
+    /* margin-right: 10px; */
     text-decoration: none;
-    color: #8d8d8d;
+    /* color: #8d8d8d; */
     cursor: default;
-    opacity: 0.7;
+    /* opacity: 0.7; */
 }
 
 .menu .config:active {

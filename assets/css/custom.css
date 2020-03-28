@@ -1,10 +1,24 @@
-/* audio { 
-  width: 600px; 
-  box-shadow: 5px 5px 20px rgba(0,0, 0, 0.4);
-  border-radius: 90px;
-  transform: scale(1.05);
-} */
+/*----------- Main Design  -----------*/
+.header {
+    height: 10px;
+    background: none; /* W3C */
+    border-bottom: none;
+}
 
+.menu {
+  border-top: none;
+  background: none;
+}
+.popover {
+  /* background-image: url(../img/back.jpg); */
+  background-image: linear-gradient(180deg, #ffc77b 0, #ffb872 16.67%, #ffa364 33.33%, #f28953 50%, #e46e44 66.67%, #db573e 83.33%, #d5453e 100%);
+}
+
+
+.slidecontainer {
+  color: #fff;
+}
+/*----------- Player -----------*/
 .audioPlayer {
   display: none;
 }
@@ -67,9 +81,7 @@
   top: 4px;
 }
 
-/*=============================================>>>>>
-= Slider =
-===============================================>>>>>*/
+/*----------- Slider (Last Section) -----------*/
 
 .range {
   -webkit-appearance: none;

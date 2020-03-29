@@ -15,8 +15,8 @@
   <a href="#how-to-use">How To Use</a> •
   <a href="#download">Download</a> •
   <a href="#help">Help</a> •
-  <a href="#license">License</a>
-  <a href="#credits">Credits</a> •
+  <a href="#license">License</a> •
+  <a href="#credits">Credits</a>
 </p>
 
 ![screenshot](/assets/img/screenshot-small.jpg)

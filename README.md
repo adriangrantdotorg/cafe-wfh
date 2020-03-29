@@ -1,5 +1,5 @@
 <h1 align="center">
-![screenshot](/assets/img/logo-for-github-black.jpg)
+![logo](/assets/img/logo-for-github-black.jpg)
 </h1>
 
 <h4 align="center">A macOS Catalina app that blends chill Hip Hop Beats with ambient sounds of a coffee shop.</h4>
@@ -47,13 +47,12 @@ MIT
 - [Electron](http://electron.atom.io/)
 - [Node.js](https://nodejs.org/)
 - [Music](https://www.youtube.com/watch?v=gwDoRPcPxtc) 
-- [Coffee Shop Sound](https://www.youtube.com/watch?v=gaGrHUekGrc)   
+- [Cafe sounds](https://www.youtube.com/watch?v=gaGrHUekGrc)   
 - [Coffee cup graphic](https://www.deviantart.com/dunedhel/gallery#/d2f3sb6)
--  Desktop Wallpaper photo by [Michał Parzuchowski](https://unsplash.com/@mparzuchowski) 
+- [App icon](https://www.iconfinder.com/icons/185113/coffee_streamline_icon)
+-  Desktop Wallpaper by [Michał Parzuchowski](https://unsplash.com/@mparzuchowski) 
 
-
-[Click here to view credits](Credits.md) 
 
 ---
-> Twitter [@AdrianGrant](https://twitter.com/AdrianGrant)
-> Website [AdrianGrant.org](https://AdrianGrant.org) &nbsp;&middot;&nbsp;
+> Twitter [@AdrianGrant](https://twitter.com/AdrianGrant) &nbsp;&middot;&nbsp;
+> Website [AdrianGrant.org](https://AdrianGrant.org) 

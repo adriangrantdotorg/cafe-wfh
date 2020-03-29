@@ -1,13 +1,8 @@
-<div align="center">
+<p align="center">
 ![logo](/assets/img/logo-for-github-black.jpg)
-</h1>
+</p>
 
 <h4 align="center">A macOS Catalina app that blends chill Hip Hop Beats with ambient sounds of a coffee shop.</h4>
-
-<p align="center">
-[![Generic badge](https://img.shields.io/badge/<SUBJECT>-<STATUS>-<COLOR>.svg)](https://shields.io/)
-
-</p>
 
 <p align="center">
   <a href="#how-to-use">How To Use</a> •

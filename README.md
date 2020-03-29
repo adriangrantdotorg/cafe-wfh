@@ -1,6 +1,5 @@
+<div align="center">
 ![logo](/assets/img/logo-for-github-black.jpg)
-
-<h1 align="center">
 </h1>
 
 <h4 align="center">A macOS Catalina app that blends chill Hip Hop Beats with ambient sounds of a coffee shop.</h4>

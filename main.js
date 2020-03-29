@@ -38,7 +38,7 @@ app.on('ready', function() {
   });
   
   // NAGA Shows Dev Tools 
-  window.webContents.openDevTools()
+  // window.webContents.openDevTools()
 
   const iconName = 'assets/img/icon.png';
   const iconPath = path.join(__dirname, iconName);

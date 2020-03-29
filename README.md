@@ -1,8 +1,9 @@
 <p align="center">
-![logo](/assets/img/logo-for-github-black.jpg)
+  <img width="1024" height="576" src="https://i.ibb.co/SB1j31S/logo-for-github-black.jpg">
 </p>
 
-<h4 align="center">A macOS Catalina app that blends chill Hip Hop Beats with ambient sounds of a coffee shop.</h4>
+<h4 align="center">A macOS Catalina app that blends chill Hip Hop Beats with the ambient sounds of a coffee shop 🎶☕️ </h4>
+
 
 <p align="center">
   <a href="#how-to-use">How To Use</a> •
@@ -16,9 +17,9 @@
 
 
 ## How To Use
-1. Download the app and move it to your Applications folder.
+1. Download the app and move it to your Applications folder
 2. Click Play button 
-3. Move the Slider to adjust how much music you want vs background noise.
+3. Move the Slider to adjust how much music you want vs background noise
 ![screenshot](/assets/img/slider.jpg)
 4. Enjoy! 
 

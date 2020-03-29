@@ -1,5 +1,5 @@
 <p align="center">
-  <img width="1024" height="576" src="https://i.ibb.co/SB1j31S/logo-for-github-black.jpg">
+  <img width="500" height="281" src="https://i.ibb.co/SB1j31S/logo-for-github-black.jpg">
 </p>
 
 <h4 align="center">A macOS Catalina app that blends chill Hip Hop Beats with the ambient sounds of a coffee shop 🎶☕️ </h4>

@@ -1,9 +1,11 @@
 console.clear()
 var sound1 = new Howl({
-  src: ['assets/sounds/1.wav']
+  src: ['assets/sounds/beats-15.mp3'],
+  loop:true
 });
 var sound2 = new Howl({
-  src: ['assets/sounds/2.mp3']
+  src: ['assets/sounds/cafe-15.mp3'],
+  loop:true
 });
 
 var slider = document.getElementById("myRange");

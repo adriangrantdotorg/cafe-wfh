@@ -35,11 +35,12 @@ Shoot questions to [@AdrianGrant](https://twitter.com/AdrianGrant)
 
 ## License
 
-MIT
+[View License here](LICENSE.md)
 
 ## Credits
 - [Electron](http://electron.atom.io/)
 - [Node.js](https://nodejs.org/)
+- [Howler.js](https://howlerjs.com/)
 - [Music](https://www.youtube.com/watch?v=gwDoRPcPxtc) 
 - [Cafe sounds](https://www.youtube.com/watch?v=gaGrHUekGrc)   
 - [Coffee cup graphic](https://www.deviantart.com/dunedhel/gallery#/d2f3sb6)

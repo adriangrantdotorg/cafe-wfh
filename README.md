@@ -4,7 +4,7 @@
 </a>
 </p>
 
-<h4 align="center">A macOS Catalina app that blends chill Hip Hop Beats with the ambient sounds of a coffee shop 🎶 ☕️ </h4>
+<h4 align="center">A macOS Catalina app that blends chill Hip Hop Beats with the ambient sounds of a Cafe  🎶 ☕️ </h4>
 
 <p align="center">
   <a href="#how-to-use">How To Use</a> •

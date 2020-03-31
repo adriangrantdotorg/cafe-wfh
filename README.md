@@ -1,8 +1,8 @@
 <p align="center">
-  <img width="500" height="281" src="https://i.imgur.com/wCJDvXDl.jpg">
+<a href="https://github.com/adriangrantdotorg/wfh-cafe/releases/download/v1.0.0/WFH.Cafe.dmg" target="_blank">
+<img width="500" height="281" src="https://i.imgur.com/wCJDvXDl.jpg">
+</a>
 </p>
-
-
 
 <p align="center">
   <a href="#how-to-use">How To Use</a> •

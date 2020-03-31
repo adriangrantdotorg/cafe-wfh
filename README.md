@@ -25,7 +25,7 @@
 
 ## Download
 
-[Click here to download](https://github.com/amitmerchant1990/electron-markdownify/releases/tag/v1.2.0) t
+[Click here to download](https://github.com/adriangrantdotorg/wfh-cafe/releases/download/v1.0.0/WFH.Cafe.dmg)
 
 ## Help
 

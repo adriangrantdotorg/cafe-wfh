@@ -77,8 +77,8 @@ app.on('ready', function() {
 
   var menu = new Menu();
 
-  menu.append(new MenuItem({ label: 'About', click: () => shell.openExternal('https://github.com/adriangrantdotorg/cafe-wfh') }));
-  menu.append(new MenuItem({ label: 'Help', click: () => shell.openExternal('https://github.com/adriangrantdotorg/cafe-wfh#help') }));
+  menu.append(new MenuItem({ label: 'About', click: () => shell.openExternal('https://github.com/adriangrantdotorg/wfh-cafe') }));
+  menu.append(new MenuItem({ label: 'Help', click: () => shell.openExternal('https://github.com/adriangrantdotorg/wfh-cafe#help') }));
   menu.append(new MenuItem({type: 'separator'}))
   menu.append(new MenuItem({ label: 'Quit', click: () => app.quit() }));
 

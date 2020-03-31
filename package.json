@@ -1,12 +1,12 @@
 {
-  "name": "cafe-wfh",
+  "name": "wfh-cafe",
   "version": "1.0.0",
   "description": "Smooth Hip Hop beats mixed with cafe sounds",
   "main": "main.js",
   "scripts": {
     "start": "electron ."
   },
-  "repository": "https://github.com/adriangrantdotorg/wfh-buddies-cafe",
+  "repository": "https://github.com/adriangrantdotorg/wfh-cafe",
   "keywords": [
     "menubar",
     "macOS",
